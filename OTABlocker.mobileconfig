@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>PayloadContent</key>
+      <array>
+         <dict>
+            <key>PayloadDescription</key>
+            <string>Configures restrictions</string>
+            <key>PayloadDisplayName</key>
+            <string>Restrictions</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.applicationaccess.97FBFDD2-940D-442F-AC30-BADAD730C369</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>97FBFDD2-940D-442F-AC30-BADAD730C369</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>enforcedSoftwareUpdateDelay</key>
+            <integer>0</integer>
+            <key>forceDelayedSoftwareUpdates</key>
+            <true />
+         </dict>
+      </array>
+      <key>PayloadDisplayName</key>
+      <string>0 Day Delay</string>
+      <key>PayloadIdentifier</key>
+      <string>COOCOOFROGGY</string>
+      <key>PayloadRemovalDisallowed</key>
+      <false />
+      <key>PayloadType</key>
+      <string>Configuration</string>
+      <key>PayloadUUID</key>
+      <string>3779A9D6-04E8-4F08-8A82-914FEA41007F</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+   </dict>
+</plist>
